@@ -42,4 +42,4 @@ cacheSolve <- function(x, ...) {
   x$setInverse(m) ##sets the value of the inversed matrix in the cache via "setInverse"
   m ##get/print calculated matrix
 } 
-??commit
+
